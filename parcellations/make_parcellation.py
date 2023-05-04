@@ -11,7 +11,7 @@ class Parcellation():
         threshold = kwargs.get('parcellation_threshold')
         if threshold is None:
             threshold = 0.8
-        self.work_dir = PathHandler().work_dir
+        self.work_dir = PathHandler().work_dir #AttributeError: 'str' object has no attribute 'joinpath'
         self.data_dir = self.work_dir.joinpath('parcellations')
         self.specific_parcellation_dir = self.data_dir.joinpath(('{}_' * len(atlases)).format(*atlases) + 'combined_parcellation_with_threshold_{}'.format(threshold))
         self.specific_parcellation_dir.mkdir(exist_ok=True)

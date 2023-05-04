@@ -140,10 +140,10 @@ class PathHandler():
             self.exemplar = Path('/media/data2/itzik/fmri_data/hcp_exemplar_data/subj1/rfMRI_REST1_LR.nii.gz')
             self.baselines = Path('/media/data2/itzik/MetricfMRI/baselines')
         else:
-            self.work_dir = Path(r'K:\MetricfMRI')
-            self.experiments = Path(r'K:\MetricfMRI\experiments')
-            self.ucla = Path(r'K:\ucla\ucla\ucla\output')
-            self.ziv = Path(r'K\ptsd\ziv\caps.csv')
-            self.exemplar = Path(r'K:\HCP-1200\one_patient_original_version\rfMRI_REST1_LR.nii.gz')
-            self.baselines = Path(r'K:\MetricfMRI\baselines')
+            self.work_dir = Path(r'C:\Users\YaelAlon\Desktop\Yael\TAU\Master\Codes')
+            self.experiments = Path(r'C:\Users\YaelAlon\Desktop\Yael\TAU\Master\Codes\experiments')
+            self.ucla = Path(r'C:\Users\YaelAlon\Desktop\Yael\TAU\Master\ucla\ucla\ucla\output')
+            self.ziv = Path(r'C:\Users\YaelAlon\Desktop\Yael\TAU\Master\ptsd\ziv\caps.csv')
+            self.exemplar = Path(r'C:\Users\YaelAlon\Desktop\Yael\TAU\Master\HCP-1200\one_patient_original_version\rfMRI_REST1_LR.nii.gz')
+            self.baselines = Path(r'C:\Users\YaelAlon\Desktop\Yael\TAU\Master\Codes\MetricfMRI\baselines')
 

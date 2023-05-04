@@ -1,0 +1,109 @@
+Background : 338626
+Left Frontal Pole : 11095
+Right Frontal Pole : 12986
+Left Insular Cortex : 1987
+Right Insular Cortex : 1936
+Left Superior Frontal Gyrus : 4836
+Right Superior Frontal Gyrus : 4287
+Left Middle Frontal Gyrus : 4344
+Right Middle Frontal Gyrus : 4064
+Left Inferior Frontal Gyrus, pars triangularis : 1175
+Right Inferior Frontal Gyrus, pars triangularis : 1173
+Left Inferior Frontal Gyrus, pars opercularis : 1207
+Right Inferior Frontal Gyrus, pars opercularis : 1133
+Left Precentral Gyrus : 6819
+Right Precentral Gyrus : 6675
+Left Temporal Pole : 3919
+Right Temporal Pole : 3894
+Left Superior Temporal Gyrus, anterior division : 486
+Right Superior Temporal Gyrus, anterior division : 511
+Left Superior Temporal Gyrus, posterior division : 1022
+Right Superior Temporal Gyrus, posterior division : 1130
+Left Middle Temporal Gyrus, anterior division : 700
+Right Middle Temporal Gyrus, anterior division : 695
+Left Middle Temporal Gyrus, posterior division : 2131
+Right Middle Temporal Gyrus, posterior division : 2169
+Left Middle Temporal Gyrus, temporooccipital part : 1405
+Right Middle Temporal Gyrus, temporooccipital part : 1738
+Left Inferior Temporal Gyrus, anterior division : 686
+Right Inferior Temporal Gyrus, anterior division : 575
+Left Inferior Temporal Gyrus, posterior division : 2031
+Right Inferior Temporal Gyrus, posterior division : 1972
+Left Inferior Temporal Gyrus, temporooccipital part : 1129
+Right Inferior Temporal Gyrus, temporooccipital part : 1361
+Left Postcentral Gyrus : 5460
+Right Postcentral Gyrus : 4699
+Left Superior Parietal Lobule : 2179
+Right Superior Parietal Lobule : 2157
+Left Supramarginal Gyrus, anterior division : 1561
+Right Supramarginal Gyrus, anterior division : 1210
+Left Supramarginal Gyrus, posterior division : 1864
+Right Supramarginal Gyrus, posterior division : 2138
+Left Angular Gyrus : 1484
+Right Angular Gyrus : 2176
+Left Lateral Occipital Cortex, superior division : 7144
+Right Lateral Occipital Cortex, superior division : 7025
+Left Lateral Occipital Cortex, inferior division : 3413
+Right Lateral Occipital Cortex, inferior division : 3841
+Left Intracalcarine Cortex : 1080
+Right Intracalcarine Cortex : 1102
+Left Frontal Medial Cortex : 720
+Right Frontal Medial Cortex : 766
+Left Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex) : 1164
+Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex) : 1030
+Left Subcallosal Cortex : 1056
+Right Subcallosal Cortex : 986
+Left Paracingulate Gyrus : 2030
+Right Paracingulate Gyrus : 1863
+Left Cingulate Gyrus, anterior division : 1989
+Right Cingulate Gyrus, anterior division : 1961
+Left Cingulate Gyrus, posterior division : 2264
+Right Cingulate Gyrus, posterior division : 2152
+Left Precuneous Cortex : 3920
+Right Precuneous Cortex : 3825
+Left Cuneal Cortex : 834
+Right Cuneal Cortex : 909
+Left Frontal Orbital Cortex : 2641
+Right Frontal Orbital Cortex : 2325
+Left Parahippocampal Gyrus, anterior division : 1479
+Right Parahippocampal Gyrus, anterior division : 1588
+Left Parahippocampal Gyrus, posterior division : 1071
+Right Parahippocampal Gyrus, posterior division : 777
+Left Lingual Gyrus : 2500
+Right Lingual Gyrus : 2716
+Left Temporal Fusiform Cortex, anterior division : 600
+Right Temporal Fusiform Cortex, anterior division : 562
+Left Temporal Fusiform Cortex, posterior division : 1526
+Right Temporal Fusiform Cortex, posterior division : 1338
+Left Temporal Occipital Fusiform Cortex : 1055
+Right Temporal Occipital Fusiform Cortex : 1306
+Left Occipital Fusiform Gyrus : 1770
+Right Occipital Fusiform Gyrus : 1756
+Left Frontal Operculum Cortex : 518
+Right Frontal Operculum Cortex : 455
+Left Central Opercular Cortex : 1281
+Right Central Opercular Cortex : 1177
+Left Parietal Operculum Cortex : 827
+Right Parietal Operculum Cortex : 787
+Left Planum Polare : 567
+Right Planum Polare : 568
+Left Heschl's Gyrus (includes H1 and H2) : 385
+Right Heschl's Gyrus (includes H1 and H2) : 384
+Left Planum Temporale : 843
+Right Planum Temporale : 665
+Left Supracalcarine Cortex : 188
+Right Supracalcarine Cortex : 246
+Left Occipital Pole : 5049
+Right Occipital Pole : 4370
+Left Lateral Ventrical : 1027
+Left Thalamus : 1405
+Left Caudate : 492
+Left Putamen : 778
+Left Pallidum : 271
+Left Brain-Stem : 3557
+Right Brain-Stem : 4421
+Right Lateral Ventricle : 917
+Right Thalamus : 1329
+Right Caudate : 516
+Right Putamen : 776
+Right Pallidum : 267
